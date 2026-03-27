@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+#include "ephemeral/Flutter-Generated.xcconfig"
+=======
+#include "ephemeral/Flutter-Generated.xcconfig"
+>>>>>>> 25588d3 (Configurando gitignore e enviando código)
